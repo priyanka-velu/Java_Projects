@@ -1,3 +1,5 @@
+//print items listed
+
 public class CT1 {
     public static void main (String [] args) {
       System.out.println("Olive Garden Italian Restaurant");
